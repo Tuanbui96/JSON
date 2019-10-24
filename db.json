@@ -1,32 +1,58 @@
 {
 "products":[
   {
-    "id": 1,
-    "name": "Nike Air Force 1 Shadow",
-    "description": "Men's Basketball Shoes",
+	"id": 1,
+	"image-first": "resources/img/product/nike-airforce-1.jpg",
+	"image-second": "resources/img/product/nike-airforce-2.jpg",
+	"name": "Nike Air Force 1 Shadow",
+	"description": "Men's Basketball Shoes",
 	"price": "$140",
 	"full-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
-    "id": 2,
-    "name": "Nike Air Force 1 Shadow",
-    "description": "Men's Basketball Shoes",
+	"id": 2,
+	"image-first": "resources/img/product/nike-airforce-1.jpg",
+	"image-second": "resources/img/product/nike-airforce-2.jpg",
+	"name": "Nike Air Force 1 Shadow",
+	"description": "Men's Basketball Shoes",
 	"price": "$140",
 	"full-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
-    "id": 3,
-    "name": "Nike Air Force 1 Shadow",
-    "description": "Men's Basketball Shoes",
+	"id": 3,
+	"image-first": "resources/img/product/nike-airforce-1.jpg",
+	"image-second": "resources/img/product/nike-airforce-2.jpg",
+	"name": "Nike Air Force 1 Shadow",
+	"description": "Men's Basketball Shoes",
 	"price": "$140",
 	"full-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
-    "id": 4,
-    "name": "Nike Air Force 1 Shadow",
-    "description": "Men's Basketball Shoes",
+	"id": 4,
+	"image-first": "resources/img/product/nike-airforce-1.jpg",
+	"image-second": "resources/img/product/nike-airforce-2.jpg",
+	"name": "Nike Air Force 1 Shadow",
+	"description": "Men's Basketball Shoes",
 	"price": "$140",
 	"full-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-  }
+  },
+  {
+	"id": 5,
+	"image-first": "resources/img/product/nike-airforce-1.jpg",
+	"image-second": "resources/img/product/nike-airforce-2.jpg",
+	"name": "Nike Air Force 1 Shadow",
+	"description": "Men's Basketball Shoes",
+	"price": "$140",
+	"full-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+	"id": 6,
+	"image-first": "resources/img/product/nike-airforce-1.jpg",
+	"image-second": "resources/img/product/nike-airforce-2.jpg",
+	"name": "Nike Air Force 1 Shadow",
+	"description": "Men's Basketball Shoes",
+	"price": "$140",
+	"full-description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
   ]
 }
