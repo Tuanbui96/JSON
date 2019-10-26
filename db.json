@@ -4,7 +4,7 @@
 	"id": 1,
 	"image_first": "resources/img/product/nike-airforce-1.jpg",
 	"image_second": "resources/img/product/nike-airforce-2.jpg",
-	"image_modal": "resources/img/product/nike-airforce-1-modal.jpg",
+	"image_modal": "resources/img/product/nike-airforce-modal.jpg",
 	"name": "Nike Air Force 1 Shadow",
 	"description": "Men's Basketball Shoes",
 	"price": "$140",
