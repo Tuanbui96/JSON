@@ -57,7 +57,7 @@
 	"image_modal": "resources/img/product/nike-zoom-fly3-modal.png",
 	"name": "Nike Zoom Fly 3",
 	"description": "Men's Running Shoes",
-	"price": "202",
+	"price": "$202",
 	"full_description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }
   ]
